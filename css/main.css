@@ -17,5 +17,13 @@
 }
 
 .cell.active {
+  background-color: #058BDA;
+}
+
+.cell.correct {
   background-color: green;
+}
+
+.cell.incorrect {
+  background-color: red;
 }
