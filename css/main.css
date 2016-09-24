@@ -1,3 +1,17 @@
 #memory-game {
-  background-color: red;
+  text-align: center;
+}
+
+.row {
+
+}
+
+.cell {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  font-size: 24px;
+  background: #f8f8f8;
+  border: 1px solid #aaa;
 }
