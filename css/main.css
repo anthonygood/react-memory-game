@@ -21,7 +21,7 @@
 }
 
 .cell.correct {
-  background-color: green;
+  background-color: #00CC00;
 }
 
 .cell.incorrect {
